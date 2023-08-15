@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/e61f0f1c1b92b10bb6da3e64ec946b36cd5c38a3cac004c05d26a0806a132158/687474703a2f2f7777772e692d616d2e636f2e69642f696d616765732f4d6f62696c652d446576656c6f706d656e742e706e67)](https://cdn.dribbble.com)
+[![MasterHead](https://raw.githubusercontent.com/omadli/omadli/master/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com)
 
 <h1 align="center">Hi 👋, I'm Ravshan</h1>
 <h3 align="center">A passionate mobile developer!</h3>
