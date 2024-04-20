@@ -7,15 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravshan1119&label=Profile%20views&color=0e75b6&style=flat" alt="ravshan1119" /> </p>
 
-- 🔭 I’m currently working on [E SHOP](https://github.com/ravshan1119/internet_store)
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [https://t.me/FlutterProject_7700](https://t.me/FlutterProject_7700)
-
-- 📝 I regularly write articles on [https://t.me/FlutterProject_7700](https://t.me/FlutterProject_7700)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ravshan-allamurotov-9573ba25a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCEIWzGyrQPCMml3JXE7CpQ%3D%3D](https://www.linkedin.com/in/ravshan-allamurotov-9573ba25a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCEIWzGyrQPCMml3JXE7CpQ%3D%3D)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
